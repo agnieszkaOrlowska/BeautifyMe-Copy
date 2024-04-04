@@ -62,29 +62,7 @@ Na tym ekranie użytkownik może wybrać preferowaną metodę płatności za us�
 Funkcjonalności:
 
 - Wyświetlenie listy dostępnych metod płatności: karta kredytowa, BLIK, Google Pay, PayPal.
-- Możliwość wprowadzenia danych karty kredytowej:
-Numer karty
-Data ważności
-Kod CVV
-Imię i nazwisko posiadacza karty
-- Obsługa płatności za pomocą BLIK:
-- Możliwość wprowadzenia kodu BLIK
-- Potwierdzenie transakcji za pomocą aplikacji bankowej
-- Integracja z Google Pay:
-Umożliwienie użytkownikowi skorzystania z opcji płatności za pomocą zapisanych kart w Google Pay.
-- Opcja płatności za pomocą PayPal:
-- Przekierowanie użytkownika do systemu PayPal w celu zalogowania się i autoryzacji transakcji.
-- Obsługa błędów:
-Informowanie użytkownika o błędach przy wprowadzaniu danych płatności (np. nieprawidłowy numer karty, data ważności, itp.).
-- Komunikaty o problemach z połączeniem lub autoryzacją płatności.
-- Potwierdzenie dokonania płatności:
-Wyświetlenie potwierdzenia transakcji po jej pomyślnym zakończeniu.
-- Przejście do ekranu podsumowania zamówienia po dokonaniu płatności.
 
 ## Vue 3 + Vite
 
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).

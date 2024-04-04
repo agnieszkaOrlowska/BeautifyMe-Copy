@@ -24,10 +24,8 @@ Funkcjonalności:
 
 - Wyświetlenie pól do wprowadzenia danych logowania: adresu e-mail.
 - Możliwość zalogowania się za pomocą istniejącego konta.
-- Przypomnienie hasła - opcja umożliwiająca użytkownikowi odzyskanie hasła poprzez podanie adresu e-mail i wysłanie linku resetującego.
 - Przejście do ekranu rejestracji - jeśli użytkownik nie posiada konta, może przejść do ekranu rejestracji, aby je utworzyć.
-- Obsługa błędów - informowanie użytkownika o błędnie wprowadzonych danych logowania oraz komunikaty o problemach z połączeniem.
-- Opcja zalogowania za pomocą konta Google - umożliwienie użytkownikowi szybkiego logowania za pomocą konta Google lub Facebook (opcjonalnie).
+- Opcja zalogowania za pomocą konta Google - umożliwienie użytkownikowi szybkiego logowania za pomocą konta Google (opcjonalnie).
 - Link do odwołania się do polityki prywatności oraz warunków użytkowania aplikacji.
 - Dostęp do przycisku "Zaloguj się" lub "Zarejestruj się", w zależności od wybranej operacji.
 

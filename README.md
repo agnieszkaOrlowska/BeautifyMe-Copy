@@ -16,6 +16,7 @@ Funkcjonalności:
 - Wyświetlenie informacji o aplikacji BeautifyMe.
 - Prezentacja danych kontaktowych.
 - Dostęp do górnej zakładki zawierającej "Home", "Rezerwacja", "O nas".
+- Dostęp do wyszukiwarki. 
 
 #### 2. Ekran logowania
 Na tym ekranie użytkownik może zalogować się do swojego konta lub utworzyć nowe konto, jeśli jeszcze go nie posiada.
@@ -28,6 +29,8 @@ Funkcjonalności:
 - Opcja zalogowania za pomocą konta Google - umożliwienie użytkownikowi szybkiego logowania za pomocą konta Google (opcjonalnie).
 - Link do odwołania się do polityki prywatności oraz warunków użytkowania aplikacji.
 - Dostęp do przycisku "Zaloguj się" lub "Zarejestruj się", w zależności od wybranej operacji.
+- Dostęp do górnej zakładki zawierającej "Home", "Rezerwacja", "O nas".
+- Dostęp do wyszukiwarki. 
 
 #### 3. Ekran startowy aplikacji
 Na tym ekranie użytkownik jest witany i zachęcany do sprawdzenia dostępych usług.
@@ -35,6 +38,8 @@ Na tym ekranie użytkownik jest witany i zachęcany do sprawdzenia dostępych us
 Funkcjonalności:
 
 - Wyświetlenie powitalnego komunikatu: "Welcome to BeautifyMe!"
+- Dostęp do górnej zakładki zawierającej "Home", "Rezerwacja", "O nas".
+- Dostęp do wyszukiwarki. 
 
 #### 4. Ekran rezerwacji 
 Na tym ekranie użytkownik dokonuje rezerwacji wizyty, wybierając preferowany rodzaj usługi.
@@ -53,6 +58,8 @@ Funkcjonalności:
 - Możliwość wyboru preferowanego specjalisty.
 - Wybór usługi (np. manicure, strzyżenie).
 - Potwierdzenie rezerwacji poprzez przycisk "pay".
+- Dostęp do górnej zakładki zawierającej "Home", "Rezerwacja", "O nas".
+- Dostęp do wyszukiwarki. 
 
 #### 6. Ekran metody płatności
 Na tym ekranie użytkownik może wybrać preferowaną metodę płatności za usługę.
@@ -60,6 +67,8 @@ Na tym ekranie użytkownik może wybrać preferowaną metodę płatności za us�
 Funkcjonalności:
 
 - Wyświetlenie listy dostępnych metod płatności: karta kredytowa, BLIK, Google Pay, PayPal.
+- Dostęp do górnej zakładki zawierającej "Home", "Rezerwacja", "O nas".
+- Dostęp do wyszukiwarki. 
 
 ## Vue 3 + Vite
 

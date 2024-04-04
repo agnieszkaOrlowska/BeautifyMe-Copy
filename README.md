@@ -1,7 +1,8 @@
 # BeautifyMe
 
 #### Tytuł aplikacji: BeautifyMe
-Link do projektu interfejsu aplikacji: Link do Figmy 
+Link do projektu interfejsu aplikacji:
+https://www.figma.com/file/QtjEubLqRExxCAqHM0VqQz/BAI-Aplikacja?type=design&node-id=0-1&mode=design&t=ZruZyA6QD3EjMkEO-0
 
 ## Opis aplikacji:
 BeautifyMe to aplikacja umożliwiająca rezerwację wizyt kosmetycznych i fryzjerskich. Użytkownicy mogą łatwo umawiać się na spotkania z profesjonalistami branży urody.

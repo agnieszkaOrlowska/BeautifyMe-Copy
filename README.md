@@ -1,6 +1,6 @@
 # BeautifyMe
 
-## Tytuł aplikacji: 
+Tytuł aplikacji: 
 BeautifyMe
 Link do projektu interfejsu aplikacji:
 https://www.figma.com/file/QtjEubLqRExxCAqHM0VqQz/BAI-Aplikacja?type=design&node-id=0%3A1&mode=design&t=JPsobhqlvsLXWL3f-1
